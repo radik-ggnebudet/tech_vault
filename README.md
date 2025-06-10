@@ -19,7 +19,7 @@
 ## 📸 Демонстрация
 
 <div align="center">
-  <img src="https://via.placeholder.com/800x400/0a0a0a/00d4ff?text=TechVault+Demo" alt="TechVault Demo" />
+  <img src="[https://via.placeholder.com/800x400/0a0a0a/00d4ff?text=TechVault+Demo](https://tech-vault-xi.vercel.app)" alt="TechVault Demo" />
 </div>
 
 ## ✨ Ключевые особенности
