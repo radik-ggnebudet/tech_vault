@@ -233,10 +233,10 @@ yarn preview
 
 ## 👨‍💻 Автор
 
-**Григорий**
+**Радик Григорян**
 
 - Telegram: [@username429](https://t.me/username429)
-- GitHub: [Ваш GitHub профиль]
+- GitHub: https://github.com/radik-ggnebudet
 
 ## 🙏 Благодарности
 
