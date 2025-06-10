@@ -19,7 +19,7 @@
 ## 📸 Демонстрация
 
 <div align="center">
-  <a>https://tech-vault-xi.vercel.app</a>
+  <a href="https://tech-vault-xi.vercel.app">Tech Vault
 </div>
 
 ## ✨ Ключевые особенности
