@@ -1,0 +1,35 @@
+.floating-badge {
+  position: fixed;
+  right: 2rem;
+  top: 50%;
+  transform: translateY(-50%);
+  background: linear-gradient(135deg, var(--gradient-3), var(--gradient-4));
+  color: white;
+  padding: 1rem 1.5rem;
+  border-radius: 50px;
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  font-weight: 600;
+  box-shadow: 0 10px 30px rgba(245, 87, 108, 0.3);
+  cursor: pointer;
+  z-index: 100;
+  animation: float 3s ease-in-out infinite;
+}
+
+.floating-badge svg {
+  font-size: 1.2rem;
+}
+
+@keyframes float {
+  0%, 100% { transform: translateY(-50%) translateX(0); }
+  50% { transform: translateY(-50%) translateX(-10px); }
+}
+
+@media (max-width: 768px) {
+  .floating-badge {
+    right: 1rem;
+    padding: 0.75rem 1rem;
+    font-size: 0.9rem;
+  }
+}
