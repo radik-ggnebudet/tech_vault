@@ -121,7 +121,7 @@ shop/
 
 1. Клонируйте репозиторий:
 ```bash
-git clone https://github.com/yourusername/techvault.git
+git clone [https://github.com/yourusername/techvault.git](https://github.com/radik-ggnebudet/tech_vault)
 cd techvault
 ```
 
